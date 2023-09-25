@@ -1,0 +1,11 @@
+Package: dataAtBAM.pkgdown
+Title: Pkgdown theme for dataAtBAM and related packages
+Version: 0.0.0.9000
+Authors@R: 
+    person("Sky", "Syzygy", , "ssyzygy@bam.org", role = c("aut", "cre"),
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: Theme support for dataAtBAM using pkgdown's theme inheritance
+License: GPL (>= 3)
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.3
