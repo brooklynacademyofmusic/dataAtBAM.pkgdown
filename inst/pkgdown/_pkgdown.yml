@@ -33,13 +33,13 @@ navbar:
       text: Developer
       menu:
       - text: data @ BAM
-        href: "../dataAtBAM/index.html"
+        href: "https://salmon-ground-00e98e21e.6.azurestaticapps.net/"
       - text: tessireport
-        href: "../tessireport/index.html"
+        href: "https://brooklynacademyofmusic.github.io/tessireport/"
       - text: tessistream
-        href: "../tessistream/index.html"
+        href: "https://brooklynacademyofmusic.github.io/tessistream/"
       - text: tessilake
-        href: "../tessilake/index.html"
+        href: "https://brooklynacademyofmusic.github.io/tessilake/"
       - text: tessiflow
-        href: "../tessiflow/index.html"
+        href: "https://brooklynacademyofmusic.github.io/tessiflow/"
 
